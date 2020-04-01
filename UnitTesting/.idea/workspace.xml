@@ -29,6 +29,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33378017" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="highway.vehicle" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -41,17 +46,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestHighway.testAddNewVehicleThenIncreaseTheSizeOfTheVehiclesOnHighway">
+  <component name="RunManager" selected="JUnit.CarTest.testCarSpeedWhenCarInitialized">
     <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehicle.*" />
+          <option name="PATTERN" value="highway.vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.CarTest" />
+      <option name="PACKAGE_NAME" value="highway.vehicle" />
+      <option name="MAIN_CLASS_NAME" value="highway.vehicle.CarTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,12 +66,12 @@
       <module name="UnitTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehicle.*" />
+          <option name="PATTERN" value="highway.vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.CarTest" />
+      <option name="PACKAGE_NAME" value="highway.vehicle" />
+      <option name="MAIN_CLASS_NAME" value="highway.vehicle.CarTest" />
       <option name="METHOD_NAME" value="testCarSpeedWhenCarInitialized" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -77,12 +82,12 @@
       <module name="UnitTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehicle.*" />
+          <option name="PATTERN" value="highway.vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.CarTest" />
+      <option name="PACKAGE_NAME" value="highway.vehicle" />
+      <option name="MAIN_CLASS_NAME" value="highway.vehicle.CarTest" />
       <option name="METHOD_NAME" value="testIsBeltOnWhenCarStopsThenBeltIsNotOn" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -93,12 +98,12 @@
       <module name="UnitTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehicle.*" />
+          <option name="PATTERN" value="highway.vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.TestHighway" />
+      <option name="PACKAGE_NAME" value="highway" />
+      <option name="MAIN_CLASS_NAME" value="highway.TestHighway" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,12 +113,12 @@
       <module name="UnitTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehicle.*" />
+          <option name="PATTERN" value="highway.vehicle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="vehicle" />
-      <option name="MAIN_CLASS_NAME" value="vehicle.TestHighway" />
+      <option name="PACKAGE_NAME" value="highway" />
+      <option name="MAIN_CLASS_NAME" value="highway.TestHighway" />
       <option name="METHOD_NAME" value="testAddNewVehicleThenIncreaseTheSizeOfTheVehiclesOnHighway" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -122,10 +127,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestHighway.testAddNewVehicleThenIncreaseTheSizeOfTheVehiclesOnHighway" />
+        <item itemvalue="JUnit.CarTest.testCarSpeedWhenCarInitialized" />
         <item itemvalue="JUnit.TestHighway" />
         <item itemvalue="JUnit.CarTest" />
-        <item itemvalue="JUnit.CarTest.testCarSpeedWhenCarInitialized" />
+        <item itemvalue="JUnit.TestHighway.testAddNewVehicleThenIncreaseTheSizeOfTheVehiclesOnHighway" />
         <item itemvalue="JUnit.CarTest.testIsBeltOnWhenCarStopsThenBeltIsNotOn" />
       </list>
     </recent_temporary>
