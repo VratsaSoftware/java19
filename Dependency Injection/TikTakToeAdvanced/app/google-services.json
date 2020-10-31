@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932312640213",
+    "firebase_url": "https://tiktaktoe-advanced.firebaseio.com",
+    "project_id": "tiktaktoe-advanced",
+    "storage_bucket": "tiktaktoe-advanced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932312640213:android:60b1fe1481958452cc105c",
+        "android_client_info": {
+          "package_name": "com.inveitix.tiktaktoeadvanced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932312640213-0q5f4nljed9bckiuhoa6rm1bnd5ddfk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inveitix.tiktaktoeadvanced",
+            "certificate_hash": "884cb52e4c68f3fa387ab3fe7099d782e0cc4a4b"
+          }
+        },
+        {
+          "client_id": "932312640213-7bem30b9la56lut6nb4792t0nf1nup9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD2M_BANPRmIGh7fMF7ShwCMflBX-EMrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932312640213-7bem30b9la56lut6nb4792t0nf1nup9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
