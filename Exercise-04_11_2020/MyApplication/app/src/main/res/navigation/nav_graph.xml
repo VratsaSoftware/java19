@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navGraph"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.vsc.myapplication.ui.fragments.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/fragmentAllStudents"
+        android:name="com.vsc.myapplication.ui.fragments.AllStudentsFragment"
+        android:label="All Students"
+        tools:layout="@layout/fragment_all_students" />
+
+    <fragment
+        android:id="@+id/fragmentSeparatedStudents"
+        android:name="com.vsc.myapplication.ui.fragments.SeparatedStudentsFragment"
+        android:label="Separated Students"
+        tools:layout="@layout/fragment_separated_students" />
+
+</navigation>
