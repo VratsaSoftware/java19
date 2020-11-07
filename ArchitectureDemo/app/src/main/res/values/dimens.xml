@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="register_margin_top">32dp</dimen>
+    <dimen name="regiter_text_margin_top">16dp</dimen>
+    <dimen name="register_button_text_size">16sp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SimpleTextInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_marginStart">@dimen/default_margin</item>
+        <item name="android:layout_marginEnd">@dimen/default_margin</item>
+        <item name="android:layout_marginBottom">@dimen/edit_text_margin</item>
+        <item name="boxStrokeErrorColor">@color/design_default_color_primary</item>
+    </style>
+
+    <style name="BlueButton" parent="@style/ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/design_default_color_primary</item>
+    </style>
+
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="edit_text_margin">16dp</dimen>
+    <dimen name="button_width">300dp</dimen>
+</resources>
